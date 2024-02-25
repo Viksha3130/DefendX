@@ -10,3 +10,14 @@ DefendX includes USB device monitoring functionality to detect and manage USB de
 
 ### File Integrity Monitoring: 
 DefendX offers robust file integrity monitoring capabilities to detect unauthorized modifications to file content. It continuously monitors file attributes, checksums, and content changes to identify any alterations that may indicate a security breach or compromise. DefendX alerts administrators promptly upon detecting file modifications, allowing them to investigate and respond to potential threats effectively.
+
+## Usage
+
+### Network Monitoring: 
+DefendX provides administrators with a centralized dashboard to monitor real-time network traffic. Through visualizations and alerts, potential DDoS attacks and other suspicious activities can be promptly identified and addressed.
+
+### Endpoint Security: 
+DefendX deploys IDS agents on endpoints to continuously monitor USB device insertions and file system activities. This ensures comprehensive endpoint security coverage, mitigating risks associated with unauthorized access and malware infections.
+
+### Alerting and Response: 
+DefendX generates alerts and notifications upon detecting suspicious activities, enabling administrators to investigate and respond promptly to potential security incidents. This proactive approach helps minimize the impact of security breaches on network integrity and data confidentiality.
