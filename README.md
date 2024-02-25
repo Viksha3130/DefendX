@@ -21,3 +21,11 @@ DefendX deploys IDS agents on endpoints to continuously monitor USB device inser
 
 ### Alerting and Response: 
 DefendX generates alerts and notifications upon detecting suspicious activities, enabling administrators to investigate and respond promptly to potential security incidents. This proactive approach helps minimize the impact of security breaches on network integrity and data confidentiality.
+
+## Modules
+
+### IDS LMS (SentinelMaster)
+SentinelMaster serves as the Network Monitoring Module of DefendX. It provides administrators with a centralized dashboard for real-time monitoring of network traffic. Through intuitive visualizations and instant alerts, SentinelMaster swiftly identifies and mitigates potential DDoS attacks and suspicious activities, ensuring the integrity of your network infrastructure.
+
+### IDS USER (GuardianAgent)
+GuardianAgent, the Endpoint Security Module of DefendX, deploys IDS agents on endpoints to ensure continuous surveillance of USB device insertions and file system activities. By providing comprehensive coverage at the endpoint level, GuardianAgent effectively safeguards against unauthorized access and malware threats, bolstering your organization's security posture.
