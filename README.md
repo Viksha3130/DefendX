@@ -1,12 +1,9 @@
 # DefendX
-The Intrusion Detection System (IDS) implemented in this project is a comprehensive security solution aimed at safeguarding network integrity and data integrity by monitoring various types of intrusions and anomalies. It operates by analyzing network traffic, device interactions, and file system activities to detect and respond to potential threats effectively.
+DefendX is an advanced Intrusion Detection System (IDS) that offers comprehensive monitoring and protection against various cyber threats, including DDoS attacks, unauthorized USB device insertions, and file content modifications. It is designed to safeguard network integrity and data integrity by continuously analyzing network traffic, device interactions, and file system activities in real-time. 
 
-Key Features:
-DDoS Attack Detection:
-The IDS continuously monitors network traffic patterns and behavior to detect Distributed Denial of Service (DDoS) attacks. It analyzes incoming traffic for abnormal patterns indicative of flooding or amplification attacks, and upon detection, triggers appropriate responses to mitigate the attack and maintain network availability.
+# Key Feature
+DDoS Attack Monitoring: DefendX employs sophisticated algorithms to detect and mitigate Distributed Denial of Service (DDoS) attacks. By monitoring network traffic patterns and behavior, DefendX can identify abnormal spikes in traffic indicative of DDoS attacks. Upon detection, it automatically triggers mitigation measures to prevent service disruptions and maintain network availability.
 
-USB Device Detection:
-In addition to network-based threats, the IDS also monitors USB device insertions across endpoints within the network. It tracks USB device events and identifies unauthorized or suspicious devices being connected. This feature helps prevent unauthorized data exfiltration or the introduction of malicious payloads through USB-based attacks.
+USB Device Detection: DefendX includes USB device monitoring functionality to detect and manage USB device insertions within the network environment. It tracks USB device events across endpoints and identifies unauthorized or suspicious devices being connected. DefendX helps prevent data breaches and malware infections that may result from unauthorized USB device usage.
 
-File Integrity Monitoring:
-The IDS includes file integrity monitoring capabilities to detect unauthorized modifications or tampering with critical system files and user data. It monitors file attributes, checksums, and content changes to identify any alterations that may indicate a security breach or compromise. Upon detection, it alerts administrators and takes necessary actions to restore file integrity and prevent further unauthorized access.
+File Integrity Monitoring: DefendX offers robust file integrity monitoring capabilities to detect unauthorized modifications to file content. It continuously monitors file attributes, checksums, and content changes to identify any alterations that may indicate a security breach or compromise. DefendX alerts administrators promptly upon detecting file modifications, allowing them to investigate and respond to potential threats effectively.
